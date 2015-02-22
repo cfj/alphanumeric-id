@@ -1,0 +1,27 @@
+{
+  "name": "alphanumeric-id",
+  "version": "0.0.0",
+  "description": "Generate an alphanumeric id of a specified length.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfj/alphanumeric-id"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "alphanumeric",
+    "random",
+    "id"
+  ],
+  "author": {
+    "name": "Jonathan Svärdén",
+    "email": "jonathan.svarden@gmail.com",
+    "url": "http://svarden.se"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
