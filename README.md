@@ -15,10 +15,10 @@ $ npm install --save alphanumeric-id
 ```js
 var alphanumeric = require('alphanumeric-id');
 
-alphanumeric(5432);
+alphanumeric(5);
 //=> i6pZq
 
-alphanumeric(1236903);
+alphanumeric(10);
 //=> 9FRwIpou9A
 ```
 
