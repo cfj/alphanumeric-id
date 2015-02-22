@@ -1,6 +1,6 @@
 {
   "name": "alphanumeric-id",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate an alphanumeric id of a specified length.",
   "repository": {
     "type": "git",
