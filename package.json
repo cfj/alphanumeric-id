@@ -23,5 +23,6 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^3.5.0"
-  }
+  },
+  "types": "types.d.ts"
 }
